@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/djangocms-scrape-google-photos-album.svg)](https://badge.fury.io/py/djangocms-scrape-google-photos-album)
+
 djangocms-scrape-google-photos-album
 =====================================
 
